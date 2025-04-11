@@ -2,20 +2,11 @@
 
 Model Context Protocol (MCP) server for interacting with All-In-One (AIO) Test Management for Jira. This server provides tools for working with test cases through the MCP protocol.
 
-[![smithery badge](https://smithery.ai/badge/@garc33/aio-server-mcp)](https://smithery.ai/server/@garc33/aio-server-mcp)
-<a href="https://glama.ai/mcp/servers/jskr5c1zq3"><img width="380" height="200" src="https://glama.ai/mcp/servers/jskr5c1zq3/badge" alt="AIO Server MCP server" /></a>
-
 ## Requirements
 
 - Node.js >= 18
 
 ## Installation
-
-### Installing via Smithery
-
-```bash
-npx -y @smithery/cli install @garc33/aio-server-mcp --client claude
-```
 
 ### Manual Installation
 ```bash
